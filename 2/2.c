@@ -11,11 +11,14 @@ int main()
     printf("Digite o segundo valor:");
     scanf("%d", &Vvalor);
 
-    if(Vvalor > valor) { ;
+    if(Vvalor > valor) { 
         printf("%d", Vvalor);
     }
-    else{
+    else if(Vvalor < valor) {
         printf("%d", valor);
+    }
+    else(Vvalor == valor){
+    pintf("Os valores são iguais.");
     }
     return 0;
 }
