@@ -55,6 +55,12 @@ build CMakeFiles/algoritimosLegais.dir/9.c.obj: C_COMPILER__algoritimosLegais_un
   OBJECT_DIR = CMakeFiles\algoritimosLegais.dir
   OBJECT_FILE_DIR = CMakeFiles\algoritimosLegais.dir
 
+build CMakeFiles/algoritimosLegais.dir/6/6.c.obj: C_COMPILER__algoritimosLegais_unscanned_Debug C$:/Users/Black/CLionProjects/algoritimosLegais/6/6.c || cmake_object_order_depends_target_algoritimosLegais
+  DEP_FILE = CMakeFiles\algoritimosLegais.dir\6\6.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\algoritimosLegais.dir
+  OBJECT_FILE_DIR = CMakeFiles\algoritimosLegais.dir\6
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target algoritimosLegais
@@ -63,7 +69,7 @@ build CMakeFiles/algoritimosLegais.dir/9.c.obj: C_COMPILER__algoritimosLegais_un
 #############################################
 # Link the executable algoritimosLegais.exe
 
-build algoritimosLegais.exe: C_EXECUTABLE_LINKER__algoritimosLegais_Debug CMakeFiles/algoritimosLegais.dir/9.c.obj
+build algoritimosLegais.exe: C_EXECUTABLE_LINKER__algoritimosLegais_Debug CMakeFiles/algoritimosLegais.dir/9.c.obj CMakeFiles/algoritimosLegais.dir/6/6.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\algoritimosLegais.dir

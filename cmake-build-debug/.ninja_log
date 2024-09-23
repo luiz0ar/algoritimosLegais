@@ -1,8 +1,7 @@
 # ninja log v6
 7	75	7488344225318914	CMakeFiles/algoritimosLegais.dir/3/3.c.obj	1902c005582bb81b
-1	254	7488347449089305	build.ninja	505108a0471fc4bc
-3	73	7488344446366093	CMakeFiles/algoritimosLegais.dir/9.c.obj	b587efa79a0dedce
-1	77	7488344225228367	CMakeFiles/algoritimosLegais.dir/main.c.obj	8cc01f45ddd8ecd9
-4	71	7488344652807072	algoritimosLegais.exe	f60c7fddece41313
+1	254	7488361327204646	build.ninja	505108a0471fc4bc
 6	121	7488351014561993	CMakeFiles/algoritimosLegais.dir/9.c.obj	b587efa79a0dedce
+1	77	7488344225228367	CMakeFiles/algoritimosLegais.dir/main.c.obj	8cc01f45ddd8ecd9
 122	216	7488351015727406	algoritimosLegais.exe	f60c7fddece41313
+3	58	7488361352479181	CMakeFiles/algoritimosLegais.dir/6/6.c.obj	f4c491c6d953f5de
